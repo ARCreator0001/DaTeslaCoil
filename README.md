@@ -1,2 +1,3 @@
-# OneTeslaRevived
-It is a revived version of the famous OneTesla TS kit with newer components and better operation!
+# DaTeslaCoil
+coming soon!
+tldr its just a desktop half bridge drsstc thats polished and not a rambling mess in my table and is a proper product.
